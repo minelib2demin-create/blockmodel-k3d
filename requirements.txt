@@ -2,4 +2,5 @@ k3d
 ipywidgets
 numpy
 matplotlib
+pyvista
 pandas
