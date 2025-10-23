@@ -3,4 +3,5 @@ ipywidgets
 numpy
 matplotlib
 pandas
+gdown
 
